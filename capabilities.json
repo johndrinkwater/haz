@@ -138,20 +138,12 @@
                     "specurl": "http://www.whatwg.org/specs/web-apps/current-work/multipage/the-video-element.html#the-audio-element",
                     "subfeatures": [
                         {
-                            "name": "audio-mp3",
-                            "title": "MP3"
+                            "name": "audio-ogg",
+                            "title": "Ogg"
                         },
                         {
                             "name": "audio-wav",
                             "title": "WAV"
-                        },
-                        {
-                            "name": "audio-m4a",
-                            "title": "M4A"
-                        },
-                        {
-                            "name": "audio-ogg",
-                            "title": "Ogg"
                         }
                     ]
                 },
@@ -161,16 +153,12 @@
                     "specurl": "http://www.whatwg.org/specs/web-apps/current-work/multipage/the-video-element.html#the-video-element",
                     "subfeatures": [
                         {
-                            "name": "video-h264",
-                            "title": "H.264"
+                            "name": "video-webm",
+                            "title": "WebM"
                         },
                         {
                             "name": "video-ogg",
                             "title": "Ogg"
-                        },
-                        {
-                            "name": "video-webm",
-                            "title": "WebM"
                         }
                     ]
                 },
